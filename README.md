@@ -21,5 +21,4 @@ This project is built using **only frontend technologies** for optimized perform
 - ✅ **CSS3** - Modern styling with animations and responsive design  
 - ✅ **FontAwesome** - Icon library for a visually appealing UI  
 
-## 📂 Folder Structure  
 
